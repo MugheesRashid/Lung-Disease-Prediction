@@ -403,8 +403,9 @@ A recommended repository structure is:
 ```text
 Liver-Disease-Prediction/
 │
-├── 📓 Lung_disease_prediction_model.ipynb
+├── 📓 Liver_disease_prediction_model.ipynb
 ├── 📊 indian_liver_patient_dataset.csv
+├── 📄 Early Liver disease prediction project - MR.doc
 ├── 📄 README.md
 └── 📜 LICENSE
 ```
